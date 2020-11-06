@@ -1,0 +1,20 @@
+{
+  "name": "tcbtest01",
+  "version": "1.0.0",
+  "description": "测试 cloudbase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangwinning/tcbtest01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhangwinning/tcbtest01/issues"
+  },
+  "homepage": "https://github.com/zhangwinning/tcbtest01#readme"
+}
